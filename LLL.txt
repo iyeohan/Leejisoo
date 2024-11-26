@@ -1,0 +1,15 @@
+git ID
+git config --global user.name iyeohan
+git config --global user.email leejisoo338@gmail.com
+
+폴더 만들기
+mkdir git-test
+
+만든 폴더 경로 이동
+cd git-test
+
+저장소 생성
+git init
+
+노트 열기
+notepad
